@@ -1,2 +1,2 @@
 # Soham_Python
-This is my repo to learn programming 
+python programming assignment repo  
